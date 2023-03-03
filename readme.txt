@@ -35,7 +35,7 @@ Node Practice
     3) npm 모듈: npm를 통해서 node_modules에 설치하고 사용하는 모듈
         - 원격 배포된 패키지를 설치
             npmjs.com의 npm registry에 패키지 배포
-            [참고]
+            [참고] https://github.com/kickscar/javascript-practices/blob/main/TechNotes/javascript-practices/11.Development%20Environments/02.%20npm.md 
 
         - 로컬 배포
             $ npm i ../douzone-math
